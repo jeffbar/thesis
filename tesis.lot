@@ -1,0 +1,12 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Datos de UGC11680}}{13}{table.caption.8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Disposici\IeC {\'o}n de las galaxias de la muestra de acuerdo a su color y masa. Las partes vac\IeC {\'\i }as pertenecen a categor\IeC {\'\i }as que no conten\IeC {\'\i }an objetos en la muestra.\relax }}{31}{table.caption.16}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Valores para el ajuste $AJ(\chi ^2_{\nu })$ en tres diferentes iteraciones, utilizando mismo algoritmo pero en dos lenguajes de programaci\IeC {\'o}n diferentes (PERL y PITHON). N\IeC {\'o}tese que la \IeC {\'u}nica discrepancia entre los diferentes ajustes corresponde a las categor\IeC {\'\i }as que contienen menos objetos. LA primera iteraci\IeC {\'o}n corresponde a la reducci\IeC {\'o}n 1.5 de los datos de \textbf {CALIFA} y para los DR2 de los mismos. Las iteraciones 2 y 3 corrsponden a la versi\IeC {\'o}n 2.2 de los datos, DR3, usando PERL PDL para la segunda y PYTHON NumPy para la tercera. \relax }}{45}{table.caption.26}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Tabla de los valores estad\IeC {\'\i }sticos para la comparaci\IeC {\'o}n de UGC11680 con respecto a las categor\IeC {\'\i }as que se indican, comenzando con la dispersi\IeC {\'o}n, la media el valor $\chi ^{2}_{\nu }$ de UGC11680 y finalmente el ajuste de su valor $\chi ^{2}_{\nu }$ con respecto a cada una de ellas. El orden de los valores esta dado por $|AJ(\chi ^{2}_{\nu })|$ del menor a mayor que corresponderian al grado de mejor a menor ajuste de UGC11680 con respecto a las categor\IeC {\'\i }as indicadas. Todos los datos estad\IeC {\'\i }sticos se encuentran en escala logar\IeC {\'\i }tmica\relax }}{46}{table.caption.27}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Tabla de conversi\IeC {\'o}n entre edades para el estudio de la historia de formaci\IeC {\'o}n estelar usada en la tesis asi como su aproximaci\IeC {\'o}n en redshift $z$, usando los datos cosmologicos $\Omega _m = 0.317$ , $\Omega _{\Lambda }=0.683$ y $H_0 = 67.15$ km/s/Mpc \citep {plank2014}\relax }}{55}{table.caption.30}

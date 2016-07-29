@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tesis.aux
+A level-1 auxiliary file: Agradecimientos/Dedicatoria.aux
+A level-1 auxiliary file: Agradecimientos/Agradecimientos.aux
+A level-1 auxiliary file: Capitulo1/introduccion.aux
+A level-1 auxiliary file: Capitulo3/diseno_experimento.aux
+A level-1 auxiliary file: Capitulo4/resultados_y_analisis.aux
+A level-1 auxiliary file: Capitulo5/conclusiones.aux
+A level-1 auxiliary file: Apendice1/Apendice1.aux
+The style file: apj.bst
+Database file #1: Bibliografia/referencias.bib
+Repeated entry---line 333 of file Bibliografia/referencias.bib
+ : @article{schiminovich2007
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 802 of file Bibliografia/referencias.bib
+ : @article{bell2004
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 819 of file Bibliografia/referencias.bib
+ : @article{faber2007
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--string name "augkormendy" is undefined
+--line 1355 of file Bibliografia/referencias.bib
+I was expecting a `,' or a `}'---line 1356 of file Bibliografia/referencias.bib
+ :    
+ :    volume = 176,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1621 of file Bibliografia/referencias.bib
+ : @article{cano2016
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2020 of file Bibliografia/referencias.bib
+ : @article{barrera2015
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2891 of file Bibliografia/referencias.bib
+ : @article{bundy2015
+ :                   ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in hubble1936
+Warning--empty publisher in osterbrock1989
+You've used 100 entries,
+            3085 wiz_defined-function locations,
+            1340 strings with 52518 characters,
+and the built_in function-call counts, 63409 in all, are:
+= -- 3934
+> -- 7154
+< -- 23
++ -- 2371
+- -- 2516
+* -- 6576
+:= -- 12756
+add.period$ -- 100
+call.type$ -- 100
+change.case$ -- 637
+chr.to.int$ -- 100
+cite$ -- 102
+duplicate$ -- 1883
+empty$ -- 2797
+format.name$ -- 2622
+if$ -- 11843
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 100
+newline$ -- 304
+num.names$ -- 400
+pop$ -- 705
+preamble$ -- 1
+purify$ -- 637
+quote$ -- 0
+skip$ -- 1520
+stack$ -- 0
+substring$ -- 1989
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 894
+warning$ -- 2
+while$ -- 342
+width$ -- 0
+write$ -- 1000
+(There were 7 error messages)

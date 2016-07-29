@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: simple.aux
+The style file: apj.bst
+Database file #1: /media/jeffrey/KINGSTON/Tesis_marzo/Bibliografia/referencias.bib
+Repeated entry---line 333 of file /media/jeffrey/KINGSTON/Tesis_marzo/Bibliografia/referencias.bib
+ : @article{schiminovich2007
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 802 of file /media/jeffrey/KINGSTON/Tesis_marzo/Bibliografia/referencias.bib
+ : @article{bell2004
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 819 of file /media/jeffrey/KINGSTON/Tesis_marzo/Bibliografia/referencias.bib
+ : @article{faber2007
+ :                   ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1356 of file /media/jeffrey/KINGSTON/Tesis_marzo/Bibliografia/referencias.bib
+ :    
+ :    volume = 176,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2566 of file /media/jeffrey/KINGSTON/Tesis_marzo/Bibliografia/referencias.bib
+ : @article{dimatteo2005
+ :                      ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 18 entries,
+            3085 wiz_defined-function locations,
+            768 strings with 15325 characters,
+and the built_in function-call counts, 12952 in all, are:
+= -- 717
+> -- 1626
+< -- 0
++ -- 536
+- -- 572
+* -- 1434
+:= -- 2652
+add.period$ -- 18
+call.type$ -- 18
+change.case$ -- 108
+chr.to.int$ -- 18
+cite$ -- 18
+duplicate$ -- 342
+empty$ -- 503
+format.name$ -- 586
+if$ -- 2376
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 58
+num.names$ -- 72
+pop$ -- 121
+preamble$ -- 1
+purify$ -- 108
+quote$ -- 0
+skip$ -- 274
+stack$ -- 0
+substring$ -- 372
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 162
+warning$ -- 0
+while$ -- 58
+width$ -- 0
+write$ -- 183
+(There were 5 error messages)
